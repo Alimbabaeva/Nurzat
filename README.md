@@ -1,2 +1,2 @@
 # Nurzat
-tjis is mty portfilio
+this is my portfilio
